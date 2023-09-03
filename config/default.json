@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb://127.0.0.1:27017/utriao",
+  "jwtSecret": "IamPheonix__",
+  "sendgridAPIKey": "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"
+}

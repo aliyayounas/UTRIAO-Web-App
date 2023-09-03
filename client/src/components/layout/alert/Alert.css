@@ -1,0 +1,5 @@
+.alertMsg {
+  background-color: rgba(10, 10, 10, 0.32);
+
+  box-shadow: -3px 21px 36px -9px rgba(255, 255, 255, 0.32);
+}
